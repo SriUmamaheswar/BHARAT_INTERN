@@ -1,0 +1,91 @@
+img{
+	border:5px solid white;
+	height: 300px;
+	width: 300px;
+	border-radius:300px;
+}
+body{
+	color: white;
+	background-image: url(background.jpeg);
+    background-size: cover;
+	font-family: cursive;
+	font-size: 20px;
+}
+ul{
+	display: flex;
+	padding-left: 100px;
+	list-style: none;
+}
+li{
+	width: 150px;
+	text-align: center;
+	padding: 3px 20px;
+	border:2px solid white;
+	border-spacing: 5px;
+	color: red;
+}
+.resume{
+	height: 150px;
+	width: 150px;
+	display:inline-flex;
+}
+.skills{
+	height: 150px;
+	width: 150px;
+	display: inline-flex;
+}
+.Interns{
+	height: 150px;
+	width: 150px;
+	display: inline-flex;
+}
+.Certification{
+	height: 150px;
+	width: 150px;
+	display: inline-flex;
+}
+.Contact{
+	height: 150px;
+	width: 150px;
+	display: inline-flex;
+}
+input{
+	font-size: 20px;
+	background: black;
+	color: white;
+	padding: 3px;
+	word-spacing: 10px;
+	width: 170px;
+	height: 40px;
+	font-family: cursive;
+
+}
+a{
+	align-content: center;
+	width: 300px;
+	height: 300px;
+}
+.last{
+	width: 10px;
+	height: 10px;
+}
+.linkedln{
+	width: 30px;
+	height: 30px;
+	border:none;
+}
+.github{
+	width: 30px;
+	height: 30px;
+	border:none;	
+}
+.mail{
+	width: 30px;
+	height: 30px;
+	border:none;
+}
+.contact{
+	width: 30px;
+	height: 30px;
+	border:none;
+}
